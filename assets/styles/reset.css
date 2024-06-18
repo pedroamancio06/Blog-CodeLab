@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: 0;
+    vertical-align: baseline;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    width: 100%;
+    background-color: var(--dark-10);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Space Grotesk", sans-serif;
+}
